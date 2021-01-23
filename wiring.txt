@@ -1,0 +1,5 @@
+Wiring for BME
+vcc - 3.3 v
+gnd - gnd
+scl - a5
+sda - a4
